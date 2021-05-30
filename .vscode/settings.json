@@ -1,0 +1,9 @@
+{
+  "files.associations": {
+    "stdio.h": "c",
+    "customer.h": "c",
+    "file_helpers.h": "c",
+    "file_helper.h": "c",
+    "navigation_helper.h": "c"
+  }
+}
